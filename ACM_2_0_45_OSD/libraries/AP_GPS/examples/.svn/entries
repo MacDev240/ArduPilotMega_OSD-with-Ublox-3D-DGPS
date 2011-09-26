@@ -1,0 +1,43 @@
+10
+
+dir
+3299
+https://arducopter.googlecode.com/svn/trunk/libraries/AP_GPS/examples
+https://arducopter.googlecode.com/svn
+
+
+
+2011-07-30T08:48:17.009471Z
+2962
+tridge60@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f9c3cf11-9bcb-44bc-f272-b75c42450872
+
+GPS_AUTO_test
+dir
+
+GPS_406_test
+dir
+
+GPS_UBLOX_test
+dir
+
+GPS_MTK_test
+dir
+
+GPS_NMEA_test
+dir
+

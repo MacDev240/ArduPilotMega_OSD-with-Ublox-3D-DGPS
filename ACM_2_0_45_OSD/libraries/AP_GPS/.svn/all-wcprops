@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3227/trunk/libraries/AP_GPS
+END
+AP_GPS_Shim.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2089/trunk/libraries/AP_GPS/AP_GPS_Shim.h
+END
+GPS.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2987/trunk/libraries/AP_GPS/GPS.h
+END
+AP_GPS_MTK16.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2089/trunk/libraries/AP_GPS/AP_GPS_MTK16.h
+END
+AP_GPS_Auto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2987/trunk/libraries/AP_GPS/AP_GPS_Auto.cpp
+END
+AP_GPS_MTK_Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1357/trunk/libraries/AP_GPS/AP_GPS_MTK_Common.h
+END
+AP_GPS_SIRF.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2089/trunk/libraries/AP_GPS/AP_GPS_SIRF.h
+END
+AP_GPS_406.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2608/trunk/libraries/AP_GPS/AP_GPS_406.cpp
+END
+AP_GPS_HIL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3225/trunk/libraries/AP_GPS/AP_GPS_HIL.cpp
+END
+AP_GPS_Auto.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1935/trunk/libraries/AP_GPS/AP_GPS_Auto.h
+END
+AP_GPS_406.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1246/trunk/libraries/AP_GPS/AP_GPS_406.h
+END
+AP_GPS_NMEA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3227/trunk/libraries/AP_GPS/AP_GPS_NMEA.cpp
+END
+AP_GPS_HIL.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1935/trunk/libraries/AP_GPS/AP_GPS_HIL.h
+END
+AP_GPS.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1504/trunk/libraries/AP_GPS/AP_GPS.h
+END
+AP_GPS_NMEA.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3227/trunk/libraries/AP_GPS/AP_GPS_NMEA.h
+END
+AP_GPS_UBLOX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2608/trunk/libraries/AP_GPS/AP_GPS_UBLOX.cpp
+END
+AP_GPS_IMU.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3225/trunk/libraries/AP_GPS/AP_GPS_IMU.cpp
+END
+AP_GPS_MTK.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2608/trunk/libraries/AP_GPS/AP_GPS_MTK.cpp
+END
+AP_GPS_UBLOX.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2089/trunk/libraries/AP_GPS/AP_GPS_UBLOX.h
+END
+AP_GPS_IMU.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1935/trunk/libraries/AP_GPS/AP_GPS_IMU.h
+END
+GPS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2608/trunk/libraries/AP_GPS/GPS.cpp
+END
+AP_GPS_MTK.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2089/trunk/libraries/AP_GPS/AP_GPS_MTK.h
+END
+AP_GPS_MTK16.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2608/trunk/libraries/AP_GPS/AP_GPS_MTK16.cpp
+END
+AP_GPS_SIRF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2608/trunk/libraries/AP_GPS/AP_GPS_SIRF.cpp
+END
+AP_GPS_None.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1935/trunk/libraries/AP_GPS/AP_GPS_None.h
+END
