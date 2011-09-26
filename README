@@ -1,0 +1,25 @@
+Finally setup my GIT Repo,
+This revision is Based on work of all developers and tester at DIYDrones community.
+This is just my little bit to add, Remzibi OSD with Call Sign 
+
+For Ublox to give accurate HDOP pleae turn on NAV-DOP using uCenter
+my Default Config_OSD uses GPS PROTOCOL UBLOX_DL
+
+for standard UBOX use: GPS PROTOCOL UBLOX
+
+This is Only for Traditional Heli no Quads yet,
+
+Mode control is set for CH-7, Camera_Roll on CH-5, Camera_Tilt on CH-6
+
+I have a custom mix for DX-7 that uses GEAR, and AUX2 to point camera straight down or GEAR  for looking 30° to right. 
+GEAR turns OSD display 'on' or 'off' 
+AILERON nudges Roll, PITCH nudges TILT, RUDDER can control Yaw (not enabled)
+
+I will ad more info as I update files.
+
+there will be A seperate Repo for Quads and Fixed Wing
+
+Mark Colwell
+
+Let me know about any isues that you see. 
+Enjoy!
